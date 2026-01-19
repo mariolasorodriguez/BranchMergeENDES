@@ -13,6 +13,6 @@ public class prueba {
         }
 	}
 	public static void saludo() {
-		System.out.println("Hola hablo desde la rama de Sergio");
+		System.out.println("Hablo desde la rama de Sergio");
 	}
 }
