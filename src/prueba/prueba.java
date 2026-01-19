@@ -11,6 +11,7 @@ public class prueba {
         for (int i = 0; i < 1000; i++) {
             System.out.println(i);
             // COMENTARIO POR MARIO
+            //Hola buenas tardes soy Sergio el presi
         }
 	}
 	public static void saludo() {
