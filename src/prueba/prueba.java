@@ -10,15 +10,11 @@ public class prueba {
 	public static void imprimirNumeros() {
         for (int i = 0; i < 1000; i++) {
             System.out.println(i);
+            // COMENTARIO POR MARIO
         }
 	}
 	public static void saludo() {
-<<<<<<< HEAD
 		System.out.println("Hablo desde la rama de Mario");
-	}
-}
-=======
 		System.out.println("Hablo desde la rama de Sergio");
 	}
 }
->>>>>>> SergioG
